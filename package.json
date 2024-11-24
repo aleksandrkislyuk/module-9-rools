@@ -1,0 +1,18 @@
+{
+  "name": "module-9-kislyuk",
+  "version": "1.0.0",
+  "description": "homework-for-module-9-autor-aleksandr-kislyuk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//github.com/aleksandrkislyuk/module-9-tools"
+  },
+  "author": "Aleksandr Kislyuk",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.15.0"
+  }
+}
